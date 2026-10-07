@@ -1,3 +1,8 @@
-4
-Hii Animay we are Learning File Handling
-Tejendra ask to append
+content = 4
+content2 = Hii Animay we are Learning File Handling
+content3 = Tejendra ask to append
+Hii this is prakash
+hii abhijeet
+hii komal
+hii tunisha
+hii mustakeem
